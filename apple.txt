@@ -1,7 +1,11 @@
 dsfsfs
 
+<<<<<<< HEAD
 
 
 
 
 ffdfhdkgjfgirtiytbmg;khp
+=======
+rtsdjsdlk-mango
+>>>>>>> experimental
